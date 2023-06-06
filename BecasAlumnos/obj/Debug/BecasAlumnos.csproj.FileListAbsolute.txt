@@ -1,0 +1,21 @@
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\bin\Debug\BecasAlumnos.exe.config
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\bin\Debug\BecasAlumnos.exe
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\bin\Debug\BecasAlumnos.pdb
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.csproj.AssemblyReference.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.Properties.Resources.resources
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.csproj.GenerateResource.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.csproj.CoreCompileInputs.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.exe
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.pdb
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\bin\Debug\BecasAlumnos.exe.config
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\bin\Debug\BecasAlumnos.exe
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\bin\Debug\BecasAlumnos.pdb
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.csproj.AssemblyReference.cache
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.Properties.Resources.resources
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.csproj.GenerateResource.cache
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.exe
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.pdb
+C:\Users\Marcos\Downloads\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.Form1.resources
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Becas de alumnos\BecasAlumnos\BecasAlumnos\obj\Debug\BecasAlumnos.Form1.resources
